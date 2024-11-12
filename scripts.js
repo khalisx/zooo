@@ -1,15 +1,21 @@
 const enclosures = [
     {
         name: "Vallon des Cascades",
-        animals: ["Lions", "Tigres"],
+        animals: ["Panda Roux", "Lemurien", "Chèvre naine", "Tortue", "Mouflon", "Binturong", "Loutre", "Ara perroquet", "Grand hocco", "Panthère"],
         description: "Cet enclos abrite des lions et des tigres dans un environnement de cascades.",
-        images: ["image1.jpg", "image2.jpg"] // Replace with actual image paths
+        images: ["image1.jpg", "image2.jpg","image3.jpg","image4.jpg","image5.jpg","image6.jpg","image7.jpg", "image8.jpg","image9.jpg","image10.jpg",] 
     },
     {
         name: "Le Plateau",
-        animals: ["Éléphants", "Girafes"],
+        animals: ["Tamarin Capucin", "Ouistiti Gibbon", "Varan de komodo", "Grivet cercopithèque", "Elephant", "Girafe", "Hyène", "Loup à crinière", "Zebre", "Lion", "Hippopotame"],
         description: "Un vaste plateau où les éléphants et les girafes se déplacent librement.",
-        images: ["image3.jpg", "image4.jpg"] // Replace with actual image paths
+        images: ["image11.jpg", "image12.jpg","image13.jpg","image14.jpg","image15.jpg","image16.jpg","image17.jpg", "image18.jpg","image19.jpg","image20.jpg"] 
+    }
+    {
+        name: "Le Bélvèdère",
+        animals: ["Rhinocéros", "Oryx beisa", "Suricate", "Fennec", "Coati", "Gnou", "Saimiri", "Tapir", "Autruche"],
+        description: "Un vaste plateau où les éléphants et les girafes se déplacent librement.",
+        images: ["image21.jpg", "image22.jpg"] 
     }
 ];
 
