@@ -17,6 +17,18 @@ const enclosures = [
         description: "Un vaste plateau où les éléphants et les girafes se déplacent librement.",
         images: ["image21.jpg", "image22.jpg"] 
     }
+    {
+        name: "Les Clairières",
+        animals: ["Marabout", "Cigogne", "Oryx algazelle", "Watusi", "Ane de Somalie", "Yack", "Mouton noir", "Ibis", "Tortue", "Pécari", "Tamanoir","Flamant rose", "Nandou", "Emeu", "Wallaby", "Porc épic", "Bison", "Ane de Provence", "Dromadaire", "Lynx", "Serval", "Chien des buissons", "Tigres"],
+        description: "Un vaste plateau où les éléphants et les girafes se déplacent librement.",
+        images: ["image21.jpg", "image22.jpg"] 
+    }
+    {
+        name: "Le bois des pins",
+        animals: ["Marabout", "Cigogne", "Oryx algazelle", "Watusi", "Ane de Somalie", "Yack", "Mouton noir", "Ibis", "Tortue", "Pécari", "Tamanoir","Flamant rose", "Nandou", "Emeu", "Wallaby", "Porc épic", "Bison", "Ane de Provence", "Dromadaire", "Lynx", "Serval", "Chien des buissons", "Tigres"],
+        description: "Un vaste plateau où les éléphants et les girafes se déplacent librement.",
+        images: ["image21.jpg", "image22.jpg"] 
+    }
 ];
 
 // Toggle visibility of the Enclosure Details section
